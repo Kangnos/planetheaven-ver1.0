@@ -1,0 +1,26 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title></title>
+    <div class="MainpagelinkDiv">
+        <a href="file:///C:/Users/ksc12_000/Desktop/Developer/ThePlanets/index.html" class="Mainpagelink">ThePlanetsHeaven</a>
+    </div>
+</head>
+<body>
+    <div class="Maincontainer">
+        <div class="BigTitleDiv">
+            <h1 class="BigTitle"></h1>
+        
+        <div class="planet_explain">
+            <p class="planet_explain_p">
+            </p>
+        </div>
+        <div class="imageZone">
+            <img class="planetImage"src="" title="">
+            <div class="planetImageInfo"></div>
+        </div>
+    </div>
+    <link rel="stylesheet" href="moon_explain.css">
+</body>
+</html>

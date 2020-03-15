@@ -1,0 +1,41 @@
+.Mainpagelink{
+    color: white;
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+body{
+    background-color: black;
+}
+.BigTitle{
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 10px;
+    font-size: 60px;
+}
+div{
+    color: white;
+}
+.planet_explain{
+    margin-left: 10px;
+    font-size: 30px;
+    font-weight: bold;
+}
+.tooltip{
+    color: white;
+}
+.imageZone{
+    margin-left: 10px;
+}
+.planetImage{
+    border: 3px solid white;
+    padding: 4px;
+}
+
+.planetImageInfo{
+    margin-top: 10px;
+    font-size: 19px;
+}
+.moreInfo{
+    color: aqua; 
+    font-weight: bold;
+}

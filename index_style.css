@@ -1,0 +1,149 @@
+body{
+    background-color: black;
+}
+
+.title{
+    text-align: center;
+    font-size: 60px;
+}
+.titleDiv{
+    background-color: gray;
+}
+.planet{
+    transition: 0.42s;
+
+}
+.planet:hover{
+    transform: scale(1.0185);
+}
+
+
+.Main_container{
+    margin-left: 45px;
+    position: relative;
+    top: 200px;
+    text-align: center;
+    justify-content: center;
+}
+
+#imagesize_mercury{
+    float: left;
+    width: 82px;
+    height: 82px;
+    top: 455px;
+    margin-right: 55px;
+    margin-left: 5px;
+}
+#imagesize_venus{
+    float: left;
+    width: 125px;
+    height: 125px;
+    position: relative;
+    top: -30px;
+    margin-right: 50px;
+}
+#imagesize_Earth{
+    float: left;
+    width: 120px;
+    height: 120px;
+    margin-right: 50px;
+    position: relative;
+    top:-30px;
+}
+#imagesize_Moon{
+    float: left;
+    width: 50px;
+    height: 50px;
+    position: absolute;
+    top: 150px;
+    left: 351px;
+}
+#imagesize_mars{
+    float: left;
+    width: 90px;
+    height: 90px;
+    margin-right: 50px;
+    position: relative;
+    top:-15px;
+}
+#imagesize_jupiter{
+    float: left;
+    width: 300px;
+    height: 300px;
+    margin-right: 50px;
+    position: relative;
+    top:-110px;
+}
+#imagesize_europa{
+    float: left;
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    top: 220px;
+    left: 690px;
+}
+#imagesize_ganymede{
+    float: left;
+    width: 75px;
+    height: 75px;
+    position: absolute;
+    top: 230px;
+    left: 742px;
+}
+#imagesize_io{
+    float: left;
+    width: 40px;
+    height: 40px;
+    position: absolute;
+    top: 180px;
+    left: 630px;
+}
+#imagesize_callisto{
+    float: left;
+    width: 60px;
+    height: 60px;
+    position: absolute;
+    top: 200px;
+    left: 830px;
+}
+#imagesize_saturn{
+    float: left;
+    width: 460px;
+    height: 190px;
+    margin-right: 50px;
+    position: relative;
+    top:-69px;
+}
+#imagesize_titan{
+    float: left;
+    width: 70px;    
+    height: 70px;
+    position: relative;
+    top: 110px;
+    right: 450px;
+}
+#imagesize_mimas{
+    float: left;
+    width: 70px;    
+    height: 70px;
+    position: relative;
+    top: 150px;
+    right: 430px;
+}
+#imagesize_uranus{
+    float: left;
+    width: 139px;
+    height: 139px;
+    margin-right: 50px;
+    position: relative;
+    top:-35px;
+    right: 47px;
+}
+#imagesize_neptune{
+    float: left;
+    width: 128px;
+    height: 128px;
+    position: relative;
+    top: -171px;
+    left: 230px; 
+}
